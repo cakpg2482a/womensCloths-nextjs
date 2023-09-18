@@ -1,0 +1,93 @@
+
+.gg1 {
+background: #31343c;
+width: 305px;
+height: 50px;
+position: relative;
+ justify-items: center; 
+
+justify-content: space-around; 
+margin-top: 50px;
+box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+}
+.gallery-1{
+color: #9efff8;
+text-align: center;
+justify-content: center;
+font: 500 40px/100% 'Roboto', sans-serif;
+position: relative;
+}
+
+.container-fluid-_1{
+    background-color: #31343C;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+
+
+}
+.rectangle-5 ,.rectangle-6, .rectangle-7 ,.rectangle-30 {
+    width: 250px;
+    height: 297px;
+    position: relative;
+    margin-left: 30px;
+    margin-top: 40px;
+   
+}
+@media (max-width:550px)
+{
+    .rectangle-5 ,.rectangle-6, .rectangle-7 ,.rectangle-30 {
+        width: 250px;
+        height: 297px;
+        /* position: relative; */
+        /* margin-left: 30px;
+        margin-top: 40px; */
+        /* text-align: center; */
+        /* top: 50%; */
+        /* left: 25%; */
+        /* margin-left:auto; */
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        /* display: inline-block; */
+        vertical-align: middle;
+        /* transform : translate(50%, 50%); */
+        
+}
+}
+.sg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #31343C;
+    margin-top:40px;
+    margin-left:-20px;
+}
+
+.rectangle-1, .rectangle-2 {
+    margin: 10px;
+    overflow: visible;
+    box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+    width: 52px;
+    height: 52px;
+}
+
+.fluen, .fluent {
+    width: 34px;
+    height: 34px;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left:10px
+   
+}
+
+@media screen and (max-width: 768px) {
+    .sg {
+        flex-direction: column;
+    }
+
+    .rectangle-1, .rectangle-2 {
+        margin: 10px 0;
+    }
+}

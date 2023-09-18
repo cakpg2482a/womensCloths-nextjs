@@ -1,0 +1,178 @@
+/* 
+.detail{
+    width:100%;
+    background-color: blue;
+    margin-left: 10px;
+
+  
+    
+}
+
+.r1,
+.r2,
+.r3 {
+   
+    margin-top: 50px;
+    background: #31343c;
+    border-radius: 10px;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+}
+/* .r3{
+    display: flex;
+} */
+
+/* @media(max-width:550px)
+ {
+
+.r1,
+ .r2,
+ .r3 {
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 20px;
+     background: #31343c;
+     border-radius: 10px;
+     width: 280px;
+  
+     height: 60px;
+     position: relative;
+     box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+ }
+ } */
+
+/* .butn{
+    width:100%;
+    background-color: chartreuse;
+  
+}
+ .container-fluid{
+    background-color: #31343C;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+} */
+
+/* 
+.asdf {
+    margin-top: 50px;
+    width: 100%;
+    
+    background: #31343c;
+    border-radius: 10px;
+    height: 230px;
+  
+    position: relative;
+    box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+} */
+
+/* @media(max-width:550px){
+    .asdf {
+
+        background: #31343c;
+        margin-top: 50px;
+        border-radius: 10px;
+        width: 315px;
+        height: 230px;
+        margin-left: 20px;
+        position: relative;
+        text-align: center;
+        justify-items: center;
+        justify-content: center;
+        box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+    }
+ } */
+
+
+
+/* .btn1 {
+
+    background: #9efff8;
+    border-radius: 10px;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    box-shadow: var(--new-box-shadow, 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05));
+} */ 
+
+
+/* Base styles */
+.detail {
+    width: 95%;
+    background-color: #31343C;
+    margin-left: 10px;
+  }
+  
+  .r1,
+  .r2,
+  .r3 {
+    font:#9efff8;
+    margin-top: 50px;
+    background: #31343c;
+    border-radius: 10px;
+    width: 100%;
+    height: 60px;
+    position: relative;
+    box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
+  }
+  
+  .butn {
+    width: 100%;
+    background-color:#31343C;
+    margin-left: 10px;
+  }
+  
+  .container-fluid {
+    background-color: #31343C;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+  }
+  
+  .asdf {
+    margin-top: 50px;
+    width: 100%;
+    background: #31343c;
+    border-radius: 10px;
+    height: 200px;
+    position: relative;
+    box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
+  }
+  
+  .btn1 {
+    background: #9efff8;
+    border-radius: 10px;
+    width:100%;
+    height: 60px;
+    
+    margin-top: 10px;
+    position: relative;
+    box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
+  }
+  
+  /* Media queries for responsiveness */
+  @media (max-width: 550px) {
+    .r1,
+    .r2,
+    .r3 {
+      /* Add responsive styles here for smaller screens */
+      margin-left: 10px;
+      width: 90%; /* Adjust the width as needed */
+      margin-top: 10px; /* Adjust the margin as needed */
+      box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
+    }
+  
+    .asdf {
+      /* Add responsive styles here for smaller screens */
+      margin-left: 10px;
+      width: 90%; /* Adjust the width as needed */
+      margin-top: 10px; /* Adjust the margin as needed */
+      box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
+    }
+  }
+  

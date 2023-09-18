@@ -1,0 +1,453 @@
+/* @media (min-width:100%) {
+  .container {
+    width: 1400px;
+
+  } */
+
+/* } */
+
+.heading {
+
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+  text-transform: capitalize;
+  text-align: center;
+ 
+  margin-top: 20px;
+  /* position:relative; */
+  /* width: 1200px; */
+  /* width: auto; */
+
+}
+
+.heading1 {
+
+  color: #FFF;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 100%;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 10px;
+  position: relative;
+}
+
+.btn {
+  /* position: absolute; */
+  background-color:#31343C ;
+  width: 100%;
+  height:auto;
+  background-size:fixed;
+  /* display: flex; */
+  
+}
+
+
+/*  first button */
+
+/* .rectangle-100,
+.rectangle-100 * {
+  box-sizing: border-box;
+} */
+
+.rectangle-100 {
+  background: #222831;
+  border-radius: 10px;
+  width: 270px;
+  height: 250px;
+  position: relative;
+  margin-left: 10px;
+}
+
+.phone-number,
+.phone-number * {
+  box-sizing: border-box;
+}
+
+.phone-number {
+  color: #ffffff;
+  font: 500 16px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+._91-90000-80000,
+._91-90000-80000 * {
+  box-sizing: border-box;
+}
+
+._91-90000-80000 {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+
+/* SECOND BUTTON */
+
+/* .rectangle-101,
+.rectangle-101 * {
+  box-sizing: border-box;
+} */
+
+.rectangle-101 {
+  background: #222831;
+  border-radius: 10px;
+  width: 270px;
+  height: 250px;
+  position: relative;
+  margin-left: 10px;
+}
+
+.tabler-mail-filled,
+.tabler-mail-filled * {
+  box-sizing: border-box;
+}
+
+.tabler-mail-filled {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+}
+
+.group {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  margin-left: 100px;
+}
+
+.email-id,
+.email-id * {
+  box-sizing: border-box;
+}
+
+.email-id {
+  color: #ffffff;
+  font: 500 16px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+im-jennings-example-com,
+.tim-jennings-example-com * {
+  box-sizing: border-box;
+}
+
+.tim-jennings-example-com {
+  color: #ffffff;
+  margin-left: 20px;
+  font: 500 24px/100% 'Montserrat', sans-serif;
+  position: relative;
+  width: 197px;
+}
+
+/*button 3  */
+
+
+/* .rectangle-102,
+.rectangle-102 * {
+  box-sizing: border-box;
+} */
+
+.rectangle-102 {
+  background: #222831;
+  border-radius: 10px;
+  width:270px;
+  height: 250px;
+  position: relative;
+  margin-left: 10px;
+
+ 
+}
+
+.ph-line-segments-fill,
+.ph-line-segments-fill * {
+  box-sizing: border-box;
+}
+
+.ph-line-segments-fill {
+  position: relative;
+  overflow: visible;
+}
+
+.business-segment,
+.business-segment * {
+  box-sizing: border-box;
+}
+
+.business-segment {
+  color: #ffffff;
+
+  font: 500 16px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+.furniture,
+.furniture * {
+  box-sizing: border-box;
+}
+
+.furniture {
+  color: #ffffff;
+
+  font: 500 24px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+/*button 4  */
+/* .rectangle-103,
+.rectangle-103 * {
+  box-sizing: border-box;
+} */
+
+.rectangle-103 {
+  background: #222831;
+  border-radius: 10px;
+  width: 270px;
+  height: 250px;
+  margin-left :10px;
+  position:relative;
+ 
+  
+}
+
+/* .fluent-location-16-filled,
+.fluent-location-16-filled * {
+  box-sizing: border-box;
+} */
+
+.fluent-location-16-filled {
+  position: relative;
+  overflow: visible;
+}
+
+.location,
+.location * {
+  box-sizing: border-box;
+}
+
+.location {
+  color: #ffffff;
+ 
+  font: 500 16px/100% 'Montserrat', sans-serif;
+  position: relative;
+}
+
+_2972-westheimer-rd-santa-ana-illinois-85486,
+._2972-westheimer-rd-santa-ana-illinois-85486 * {
+  box-sizing: border-box;
+}
+
+._2972-westheimer-rd-santa-ana-illinois-85486 {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px/50% 'Montserrat', sans-serif;
+  position: relative;
+  margin-top: 10px;
+  /* width: 222px; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.a{
+  margin-top: 20px;
+  background-color:#31343C  ;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+
+ 
+}
+
+/* .ellipse-13,
+.ellipse-13 * {
+  box-sizing: border-box;
+} */
+/* 
+.ellipse-13 {
+  background: #222831;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  
+  overflow: visible;
+  
+
+
+
+}
+
+/* .uil-instagram,
+.uil-instagram * {
+  box-sizing: border-box;
+} */
+/* 
+.uil-instagram {
+  align-items: center;
+  margin-top: 9px;
+  margin-left: 9px;
+  position: relative;
+  overflow: visible;
+
+}
+
+
+
+.ellipse-14,
+.ellipse-14 * {
+  box-sizing: border-box;
+}
+
+.ellipse-14 {
+  background: #222831;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  margin-left:80px;
+  overflow: visible;
+
+  margin-top: -50px;
+  
+
+
+
+}
+
+.bxl-facebook,
+.bxl-facebook * {
+  box-sizing: border-box;
+}
+
+.bxl-facebook {
+  margin-top: 9px;
+  margin-left: 9px;
+ 
+}
+
+
+.ellipse-15,
+.ellipse-15 * {
+  box-sizing: border-box;
+}
+
+.ellipse-15 {
+  background: #222831;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-left:160px ;
+  margin-top: -50px;
+  position:relative;
+  overflow: visible;
+}
+
+.ic-outline-whatsapp,
+.ic-outline-whatsapp * {
+  box-sizing: border-box;
+}
+
+.ic-outline-whatsapp {
+  margin-top: 9px;
+  margin-left: 9px;
+
+}
+
+
+.ellipse-16 {
+  background: #222831;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position:relative;
+  overflow: visible;
+
+  margin-left: 240px ;
+  margin-top: -50px;
+}
+
+.ri-youtube-line,
+.ri-youtube-line * {
+  box-sizing: border-box;
+}
+
+.ri-youtube-line {
+  margin-top: 9px;
+  margin-left: 9px;
+
+}  */
+ .ellipse-13, .ellipse-14, .ellipse-15, .ellipse-20 {
+  width: 3em;
+  height: 3em;
+ 
+
+}
+
+.bxl-facebook, .uil-instagram, .ic-outline-whatsapp, .ri-youtube-line {
+  margin: 0.2em;
+} 
+@media (max-width: 600px) {
+  .ellipse-13, .ellipse-14, .ellipse-15, .ellipse-20 {
+    width: 2em;
+    height: 2em;
+  }
+
+  .bxl-facebook, .uil-instagram, .ic-outline-whatsapp, .ri-youtube-line {
+    margin: 0.2em;
+  }
+} 
+
