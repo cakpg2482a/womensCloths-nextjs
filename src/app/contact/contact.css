@@ -122,10 +122,12 @@
     box-shadow: 5px 5px 7px 0px rgba(0, 0, 0, 0.20), 1px 1px 2px 0px rgba(0, 0, 0, 0.05), -2px -2px 2px 0px rgba(255, 255, 255, 0.05), -6px -7px 7px 0px rgba(255, 255, 255, 0.05);
   }
   .form-control::placeholder {
-    color: #9efff8 !important;
+    color: #9efff8 ;
     opacity: 1;
-   
-    }
+   }
+   .form-control:focus::placeholder {
+    color: black; /* Change this to the color you want */
+  }
   
   .butn {
     width: 100%;
