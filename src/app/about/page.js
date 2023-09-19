@@ -16,7 +16,7 @@ export default function About() {
  <div style={{height:"100%",width:"100%",backgroundColor:"#31343C"}}>
         <div className="container1">
             <h3 className="heading">Women Clothes</h3>
-               <p className="heading1">Clothing (also known as clothes, garments, dress, apparel, or attire) <br></br>is any item worn on the body.  </p>
+               <p className="heading1">Clothing(also known as clothes,<br/> garments, dress, apparel, or attire)<br></br>is any item worn on the body.  </p>
         </div>
         {/* .................... */}
         <div className="btn">
@@ -137,28 +137,28 @@ export default function About() {
 <div className="container align-items-center justify-content-center d-flex mt-5">
       <div className="row gap-2">
         <div className="col">
-          <Link href="https://www.instagram.com/">
+          <Link href="">
             <button className="button">
               <Image src={instagram} alt="Instagram" className="icon" />
             </button>
           </Link>
         </div>
         <div className="col">
-          <Link href="https://www.facebook.com/">
+          <Link href="">
             <button className="button">
               <Image src={facebook} alt="Facebook" className="icon" />
             </button>
           </Link>
         </div>
         <div className="col">
-          <Link href="https://www.whatsapp.com/">
+          <Link href="">
             <button className="button">
               <Image src={whatsapp} alt="WhatsApp" className="icon" />
             </button>
           </Link>
         </div>
         <div className="col">
-          <Link href="https://www.youtube.com/">
+          <Link href="">
             <button className="button">
               <Image src={Youtube} alt="YouTube" className="icon" />
             </button>

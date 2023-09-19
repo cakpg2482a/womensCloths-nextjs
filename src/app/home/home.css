@@ -3,10 +3,10 @@
 
 .rectangle-25 {
   width:100%;
-  height:100%;
+  /* height:70%; */
   position: relative;
   background-color: #31343C;
-  overflow: visible;
+  /* overflow: visible; */
   /* z-index: -1; */
 }
 

@@ -166,7 +166,7 @@ export default function Calendar() {
 </div>
 <div className="appointment-center align-items-center justify-content-center d-flex mt-4">
     <button className="appointment-btn">
-        <p className="appointment-text">Make An Appointment</p>
+        Make An Appointment
     </button>
 </div>
           </div>

@@ -88,7 +88,7 @@ export default function Product() {
 
                                     <div class="ellipse-17" >
 
-                                        <Link href="https://www.whatsapp.com/">
+                                        <Link href=" ">
                                             <svg className="logos-whatsapp-icon" style={{ marginLeft: 2 }} width="24px" height="25px" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg" >
                                                 <g clip-path="url(#clip0_1_210)">
                                                     <path d="M0.512151 11.949C0.511588 13.9812 1.04259 15.9655 2.05228 17.7145L0.415588 23.6903L6.53109 22.0868C8.22255 23.0077 10.1177 23.4902 12.0436 23.4903H12.0487C18.4063 23.4903 23.5816 18.3169 23.5843 11.9581C23.5855 8.87681 22.3867 5.97937 20.2085 3.7995C18.0307 1.61981 15.1342 0.41878 12.0482 0.417374C5.68978 0.417374 0.51487 5.5905 0.512245 11.949" fill="url(#paint0_linear_1_210)" />

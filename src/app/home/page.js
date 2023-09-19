@@ -18,7 +18,9 @@ export default function Home() {
            <Image className="rectangle-25"
                 src={profile}
                 alt="Picture of the author"
-                layout="responsive"
+                // layout="responsive"
+                height={450}
+                // width={1200}
               
             />
           
