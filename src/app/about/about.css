@@ -311,126 +311,17 @@ _2972-westheimer-rd-santa-ana-illinois-85486,
 
  
 }
-
-/* .ellipse-13,
-.ellipse-13 * {
-  box-sizing: border-box;
-} */
-/* 
-.ellipse-13 {
-  background: #222831;
-  border-radius: 50%;
+.button {
   width: 50px;
   height: 50px;
-  position: relative;
+  margin-top: -20px;
+  border-radius: 50px;
+  background-color:#31343C;
+  border-color: #9efff8;
   
-  overflow: visible;
-  
-
-
-
 }
 
-/* .uil-instagram,
-.uil-instagram * {
-  box-sizing: border-box;
-} */
-/* 
-.uil-instagram {
-  align-items: center;
-  margin-top: 9px;
-  margin-left: 9px;
-  position: relative;
-  overflow: visible;
-
-}
-
-
-
-.ellipse-14,
-.ellipse-14 * {
-  box-sizing: border-box;
-}
-
-.ellipse-14 {
-  background: #222831;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  position: relative;
-  margin-left:80px;
-  overflow: visible;
-
-  margin-top: -50px;
-  
-
-
-
-}
-
-.bxl-facebook,
-.bxl-facebook * {
-  box-sizing: border-box;
-}
-
-.bxl-facebook {
-  margin-top: 9px;
-  margin-left: 9px;
- 
-}
-
-
-.ellipse-15,
-.ellipse-15 * {
-  box-sizing: border-box;
-}
-
-.ellipse-15 {
-  background: #222831;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  margin-left:160px ;
-  margin-top: -50px;
-  position:relative;
-  overflow: visible;
-}
-
-.ic-outline-whatsapp,
-.ic-outline-whatsapp * {
-  box-sizing: border-box;
-}
-
-.ic-outline-whatsapp {
-  margin-top: 9px;
-  margin-left: 9px;
-
-}
-
-
-.ellipse-16 {
-  background: #222831;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  position:relative;
-  overflow: visible;
-
-  margin-left: 240px ;
-  margin-top: -50px;
-}
-
-.ri-youtube-line,
-.ri-youtube-line * {
-  box-sizing: border-box;
-}
-
-.ri-youtube-line {
-  margin-top: 9px;
-  margin-left: 9px;
-
-}  */
- .ellipse-13, .ellipse-14, .ellipse-15, .ellipse-20 {
+ /* .ellipse-13, .ellipse-14, .ellipse-15, .ellipse-20 {
   width: 3em;
   height: 3em;
  
@@ -449,5 +340,5 @@ _2972-westheimer-rd-santa-ana-illinois-85486,
   .bxl-facebook, .uil-instagram, .ic-outline-whatsapp, .ri-youtube-line {
     margin: 0.2em;
   }
-} 
+}  */
 

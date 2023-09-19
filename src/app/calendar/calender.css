@@ -125,6 +125,10 @@
     border-radius: 50px;
     color:  #31343c!important;
   }
+  /* .selected {
+    background-color: white;
+    /* Add any other styling you want for the selected date */
+ 
   
   .appointment {
     font-family: Poppins;

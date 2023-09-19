@@ -50,7 +50,7 @@ export default function Contact() {
             <div className="detail">
               <input type="text" className="form-control mb-3 r1 " placeholder="Enter Your Name" />
               <input type="email" className="form-control mb-3 r2" placeholder="Enter Your Email" />
-              <input type="text" className="form-control r3" placeholder="Enter Your WhatsApp NO"placeho />
+              <input type="text" className="form-control r3" placeholder="Enter Your WhatsApp NO" />
             </div>
           </div>
           <div className="col-md-6">

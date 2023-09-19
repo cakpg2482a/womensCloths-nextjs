@@ -1,6 +1,13 @@
 import Image from "next/image"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./about.css"
+import Link from 'next/link';
+import instagram from "../../../public/button-icon/uil_instagram.svg";
+import facebook from "../../../public/button-icon/bxl_facebook.svg";
+import whatsapp from "../../../public/button-icon/ic_outline-whatsapp.svg";
+import Youtube from "../../../public/button-icon/ri_youtube-line.svg";
+
+
 
 
 export default function About() {
@@ -59,7 +66,7 @@ export default function About() {
         <br/>
 
 
-         <div className="a">
+         {/* <div className="a">
                    <div className="ellipse-13">
                         <svg
                             class="uil-instagram"
@@ -124,7 +131,41 @@ export default function About() {
                     </svg>
 
                 </div> 
-            </div>
+            </div> */}
+
+
+<div className="container align-items-center justify-content-center d-flex mt-5">
+      <div className="row gap-2">
+        <div className="col">
+          <Link href="https://www.instagram.com/">
+            <button className="button">
+              <Image src={instagram} alt="Instagram" className="icon" />
+            </button>
+          </Link>
+        </div>
+        <div className="col">
+          <Link href="https://www.facebook.com/">
+            <button className="button">
+              <Image src={facebook} alt="Facebook" className="icon" />
+            </button>
+          </Link>
+        </div>
+        <div className="col">
+          <Link href="https://www.whatsapp.com/">
+            <button className="button">
+              <Image src={whatsapp} alt="WhatsApp" className="icon" />
+            </button>
+          </Link>
+        </div>
+        <div className="col">
+          <Link href="https://www.youtube.com/">
+            <button className="button">
+              <Image src={Youtube} alt="YouTube" className="icon" />
+            </button>
+          </Link>
+        </div>
+      </div>
+    </div>
             </div>  
     </>
     )
