@@ -62,7 +62,7 @@ export default function Contact() {
         </div>
       </div>
       <br/><br/><br/><br/><br/>
-      <p style={{textAlign:"center",color:"black"}}> Copyright © 2023, All Right Reserved at Quintus Tech Private Limited </p>
+      <p style={{textAlign:"center",color:"white"}}> Copyright © 2023, All Right Reserved at Quintus Tech Private Limited </p>
     </>
   );
 }
