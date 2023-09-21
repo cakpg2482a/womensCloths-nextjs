@@ -66,6 +66,7 @@
      background: #31343c;
     text-align: center;
     margin-top: -40px;
+
   }
   
   .month ul {
@@ -83,17 +84,20 @@
   .month .prev {
     float: left;
     padding-top: 5px;
+    cursor: pointer
   }
   
   .month .next {
     float: right;
     padding-top: 5px;
+    cursor: pointer
   }
   
   .weekdays {
     margin: 10;
     padding: 10px 0;
     background-color: #31343c;
+    cursor: pointer
   }
   
   .weekdays li {
@@ -101,6 +105,7 @@
     width: 13.6%;
     color:  #9efff8;
     text-align: center;
+    cursor: pointer
   }
   
   .days {
